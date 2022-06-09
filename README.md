@@ -5,6 +5,7 @@ Hyusef/Hyusef is a ✨ special ✨ repository because its `README.md` (this file
 --->
 
 ![hypng](https://user-images.githubusercontent.com/61304986/172939955-af18daf2-b7e1-469c-8922-f22044c42ddc.png)
+<h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
   
