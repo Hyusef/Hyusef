@@ -28,23 +28,23 @@ Hyusef/Hyusef is a ✨ special ✨ repository because its `README.md` (this file
       </p>
         <p><strong>React | React Query | React Router | Node.js | Material-UI | ChartJs</strong> - Stockmore is a stock analysis tool. It has charts and a dashboard to view selected stocks</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Posinews</h3>
+      <td width="50%" valign="top">
+      <h3 align="center">Swisscalc</h3>
         <br />
-      <a target="_blank" href="https://posinews.vercel.app/">
-            <img src="https://user-images.githubusercontent.com/61304986/172940243-e1f0866e-40fa-4a61-bbae-569720df7ba9.gif" width="100%"  alt="posinews"/>
+        <a target="_blank" href="https://swisscalc.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/61304986/172940259-10e1fd13-dc5a-4fc1-a4b4-f90fed073492.gif" width="100%" alt="swisscalc"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/hyusef/posinews" target="_blank">
+  <a href="https://github.com/hyusef/swisscalc" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://posinews.vercel.app/" target="_blank">
+  <a href="https://swisscalc.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React | Node.js | Express | Material-UI | Cheerios </strong> - Posinews is an app that scrapes r/upliftingNews/ to show you positive news</p>
+        <p><strong>React | Framer-Motion | Material-UI | Styled-Components</strong>  - Swisscalc is a calculator inspired by the swiss knife. It includes many different calculators for a variety of purposes.</p>
     </td>
   </tr>
   
@@ -67,22 +67,22 @@ Hyusef/Hyusef is a ✨ special ✨ repository because its `README.md` (this file
         <p><strong>React | Tailwind | jsPdf | ChartJs | Material-UI | Styled-Components </strong>  - Wordy creates a visual representation of texts which can then be customised and downloaded as PDF.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Swisscalc</h3>
+      <h3 align="center">Posinews</h3>
         <br />
-        <a target="_blank" href="https://swisscalc.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/61304986/172940259-10e1fd13-dc5a-4fc1-a4b4-f90fed073492.gif" width="100%" alt="swisscalc"/>
+      <a target="_blank" href="https://posinews.vercel.app/">
+            <img src="https://user-images.githubusercontent.com/61304986/172940243-e1f0866e-40fa-4a61-bbae-569720df7ba9.gif" width="100%"  alt="posinews"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/hyusef/swisscalc" target="_blank">
+  <a href="https://github.com/hyusef/posinews" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://swisscalc.netlify.app" target="_blank">
+  <a href="https://posinews.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React | Framer-Motion | Material-UI | Styled-Components</strong>  - Swisscalc is a calculator inspired by the swiss knife. It includes many different calculators for a variety of purposes.</p>
+        <p><strong>React | Node.js | Express | Material-UI | Cheerios </strong> - Posinews is an app that scrapes r/upliftingNews/ to show you positive news</p>
     </td>
   </tr>
 </table>
