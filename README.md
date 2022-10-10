@@ -87,4 +87,9 @@ Hyusef/Hyusef is a ✨ special ✨ repository because its `README.md` (this file
   </tr>
 </table>
 
+## Skills
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,styledcomponents,cpp,materialui,styledcomponents,apollo,graphql,redux,nextjs,nodejs,postgresql,jest,git,github,vscode,d3,express,githubactions,heroku,jquery,mongodb,tailwindcss,bootstrap,arduino&perline=7)
+
+
+
 
