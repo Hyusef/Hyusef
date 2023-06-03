@@ -13,7 +13,7 @@ Hyusef/Hyusef is a ✨ special ✨ repository because its `README.md` (this file
     <td width="50%" valign="top">
       <h3 align="center">Stockmore</h3>
         <br />
-        <a target="_blank" href="http://stockmore.herokuapp.com">
+        <a target="_blank" href="http://stockmore.vercel.app">
             <img src="https://user-images.githubusercontent.com/61304986/172940151-2b223749-7797-452a-8d34-0e77d53b5d4e.gif" width="100%" alt="StockMore"/>
         </a>
         <br />
